@@ -3,4 +3,3 @@ The following project is implemented in Jupyter Notebook with some basic python 
 
 Please feel free to use the code.
 
-The image data has been kept unavailable due to privacy reasons.
